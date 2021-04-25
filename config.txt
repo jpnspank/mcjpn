@@ -1,0 +1,13 @@
+{
+    "username": "Kilin#6722",
+    "password": "123456789a",
+    "room": "*#records0bootcamp",
+    "community": "br",
+    "premium_id": "j29c8p6p",
+    "born_period": 3.00,
+    "disconnect_mod_room": true,
+    "disconnect_mod_game": false,
+    "public_commands": false,
+    "private_commands": true,
+    "admins": {"Spankxd#0000": 0, "L3v3_spank#8748": 0, "Jpn_sc#1000": 0}
+}
