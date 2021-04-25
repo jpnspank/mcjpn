@@ -4,7 +4,7 @@
     "room": "*#records0Mc_jpn#4085 bootcamp",
     "community": "br",
     "premium_id": "j29c8p6p",
-    "born_period": 3.00,
+    "born_period": 2.85,
     "disconnect_mod_room": true,
     "disconnect_mod_game": false,
     "public_commands": true,
