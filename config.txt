@@ -9,5 +9,5 @@
     "disconnect_mod_game": false,
     "public_commands": true,
     "private_commands": true,
-    "admins": {"Spankxd#0000": 0, "Jpn#0853": 0, "Jpn_sc#1000": 0}
+    "admins": {"Permaneceu#0000": 0, "Jpn#0853": 0, "Jpn_sc#1000": 0}
 }
